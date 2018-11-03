@@ -6,5 +6,5 @@ https://github.com/OneLoneCoder/olcPixelGameEngine
 
 The app displaying kind of "mountains" (they're weird). 
 
-Licence: 
+## Licence: 
 https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/LICENCE.md
