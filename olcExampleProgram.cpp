@@ -1,3 +1,13 @@
+/*
+	This application was created for test Translate() function. 
+	It was made with olcPixelGameEngine framework, that you can find here:
+	https://github.com/OneLoneCoder/olcPixelGameEngine
+	
+	The app displaying kind of "mountains" (they're weird). 
+	Use arrows to "move" the camera
+
+*/
+
 #define OLC_PGE_APPLICATION
 #include "olcPixelGameEngine.h"
 
