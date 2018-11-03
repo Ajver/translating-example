@@ -6,6 +6,8 @@
 	The app displaying kind of "mountains" (they're weird). 
 	Use arrows to "move" the camera
 
+	Licence:
+	https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/LICENCE.md
 */
 
 #define OLC_PGE_APPLICATION
