@@ -1,0 +1,4 @@
+﻿  olcExampleProgram.cpp
+d:\git repositories\olcpixelgameengine\out\olc\olcexampleprogram.cpp(44): warning C4244: "argument": konwersja z "double" do "int32_t", możliwa utrata danych
+d:\git repositories\olcpixelgameengine\out\olc\olcexampleprogram.cpp(53): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  olc.vcxproj -> D:\Git repositories\olcPixelGameEngine\out\olc\Debug\olc.exe
